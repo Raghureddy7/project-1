@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599833108304",
+    "project_id": "loginregfirestore-93183",
+    "storage_bucket": "loginregfirestore-93183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599833108304:android:a8a69e86a3ae32f43a1655",
+        "android_client_info": {
+          "package_name": "com.loginregfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599833108304-39amfoarqs9b8dfbpqtpsov1a61q7g7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBwvUUbBGN8N1RF-vTisbyKV1XbH18Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599833108304-39amfoarqs9b8dfbpqtpsov1a61q7g7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
